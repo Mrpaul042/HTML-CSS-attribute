@@ -1,0 +1,35 @@
+Position properties
+need: even through if you have top, left bottom, or right  which can be used to place/align  the elements in the web page 
+Now On what basis they have to be placed ??.......
+1.static
+2.relative
+3.absolute
+4.fixed 
+5.sticky
+
+1.static:They are not affected by top ,left, bottom or right
+By default all the html elements are positioned static 
+
+
+2.relative:
+a.They are  affected by top ,left, bottom or right
+b.A space is created for them in the document
+c.It will affect the document flow
+
+3.absolute
+a.They are  affected by top ,left, bottom or right 
+b.It will affect the document flow
+c.no space is created 
+d.it will be positioned w.r.t first positioned element
+
+
+2 cases are there
+absolute position property has to be used along with the combination of the relative
+ex:if child1has to be absolute means 
+
+
+4.fixed : IF you allot one specific location top,left, bottom, or right 
+they are not affected by scrolling
+
+5.sticky:
+they will get affected by scrolling , but.. if you reach their position they will stick on to it
