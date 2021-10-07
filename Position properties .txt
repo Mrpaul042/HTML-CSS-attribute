@@ -1,5 +1,5 @@
 Position properties
-need: even through if you have top, left bottom, or right  which can be used to place/align  the elements in the web page 
+need: even through if you have top, left bottom, or right  can push any elements in the web page,But on some factor we can alligned then for this we need position property. 
 Now On what basis they have to be placed ??.......
 1.static
 2.relative
